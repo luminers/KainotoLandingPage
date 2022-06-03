@@ -38,10 +38,9 @@
         color: #182f26;
         background-color: #8ad7b7a4;
     }
-    .main-div-2 {}
     .main-div-3 {
         color: #1d103a;
-        background-color: #7a5fd28b;
+        background-color: #7a5fd28b !important;
     }
     .main-div-img {
         width: 100%;
