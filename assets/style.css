@@ -28,7 +28,7 @@ body {
 }
 .main-div {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 20px;
     width: 100%;
     height: 500px;
 }
@@ -36,13 +36,18 @@ body {
     color: #182f26;
     background-color: #8ad7b7a4;
 }
+.main-div-2 {
+    margin-top: 70px;
+ 
+}
+
 .main-div-3 {
     color: #1d103a;
     background-color: #7a5fd28b !important;
 }
 .main-div-img {
     width: 100%;
-    height: 200px;
+    height: 300px;
     object-fit: cover;
     overflow: hidden;
 }
